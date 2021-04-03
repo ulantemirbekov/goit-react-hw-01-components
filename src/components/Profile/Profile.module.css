@@ -1,0 +1,18 @@
+.avatar {
+  width: 100px;
+  border-radius: 50%;
+}
+
+.stats {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.stats_item {
+  margin-right: 10px;
+}
+
+.quantity {
+  display: block;
+}
