@@ -1,0 +1,13 @@
+.stat_list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.stat_item {
+  margin-right: 10px;
+}
+
+.item_percentage {
+  display: block;
+}
