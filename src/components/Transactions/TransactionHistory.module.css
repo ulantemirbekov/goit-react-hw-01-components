@@ -1,4 +1,6 @@
 .transactions {
+  width: 300px;
+  margin: 0 auto 30px;
   text-align: center;
 }
 
@@ -6,10 +8,19 @@
   background-color: yellowgreen;
 }
 
+th {
+  padding: 10px;
+}
+
+td {
+  padding: 4px;
+}
+
 .transactions_body {
-  background-color: #c7c7c7;
+  background-color: #eee;
 }
 
 .type {
   text-align: left;
+  padding-left: 10px;
 }
