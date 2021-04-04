@@ -1,0 +1,15 @@
+.transactions {
+  text-align: center;
+}
+
+.transactions_head {
+  background-color: yellowgreen;
+}
+
+.transactions_body {
+  background-color: #c7c7c7;
+}
+
+.type {
+  text-align: left;
+}
