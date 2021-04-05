@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
-import defaultAvatar from '../../Profile/defaultAvatar.jpg';
 import styles from './FriendListItem.module.css';
+import defaultAvatar from '../../Profile/defaultAvatar.jpg';
 
 const FriendListItem = ({ avatar = "", name, isOnline }) => {
     return (
