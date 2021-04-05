@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 import styles from './Profile.module.css';
-import defaultAvatar from './defaultAvatar.jpg';
+import defaultAvatar from '../../assets/defaultAvatar.jpg';
 
 
 const Profile = ({ name, tag, location, avatar, stats }) => {
